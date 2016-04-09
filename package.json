@@ -1,0 +1,19 @@
+{
+  "name": "bitmap_transformer",
+  "version": "1.0.0",
+  "description": "Be able to transform bitmap images into different colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbeame/pracBit.git"
+  },
+  "author": "Katherine Beame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbeame/pracBit/issues"
+  },
+  "homepage": "https://github.com/kbeame/pracBit#readme"
+}
