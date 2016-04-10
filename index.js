@@ -1,2 +1,2 @@
-module.exports = require(__dirname + '/ib/bit.js');
-module.exports = require(__dirname + '/ib/readfile.js');
+module.exports = require(__dirname + '/lib/bit.js');
+module.exports = require(__dirname + '/lib/readfile.js');
