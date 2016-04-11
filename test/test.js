@@ -1,4 +1,3 @@
-
 const expect = require('chai').expect;
 var transform = require(__dirname + '/../lib/transform.js');
 // const EventEmitter = require('events');
