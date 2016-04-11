@@ -1,7 +1,8 @@
+
 const expect = require('chai').expect;
 var transform = require(__dirname + '/../lib/transform.js');
 // const EventEmitter = require('events');
-//test grayscale
+// test grayscale
 describe('All the transformations mathematically work', () => {
   var fakeBuffer = new Buffer(4);
 
@@ -16,9 +17,9 @@ describe('All the transformations mathematically work', () => {
     fakeBuffer.writeUInt8(50, 3);
   });
 
-//grayscale
+// grayscale
   it('should grayscale the colors', (done) => {
-    function grayscaleFunction (fakeBuffer) {
+    function grayscaleFunction(fakeBuffer) {
       console.log(fakeBuffer);
       expect(fakeBuffer.readUInt8(0)).to.eql(92);
       expect(fakeBuffer.readUInt8(1)).to.eql(92);
