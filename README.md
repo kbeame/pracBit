@@ -15,3 +15,9 @@ What to type:
 *bluescale* If you want to blue-scale the image.
 *redscale* If you want to red-scale the image.
 *invert* If you want to invert the colors of the image.
+##Help From:
+Benjamin Harding,
+Rachel Burke,
+Shelly Y,
+Heidi Laursen,
+Maria Romero.
