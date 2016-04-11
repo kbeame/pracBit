@@ -1,8 +1,8 @@
 # pracBit
 # Katherin Beame
-# Bitmap transformation assigment
+# Bitmap transformation assignment, April 11th 2016
 ##Why use this app?
-This app can be used within the terminal to transform palette based, little endian bitmaps into either grayscale, redscale, bluescale or inverted coloring.
+This app can be used within the terminal to transform palette based, little endian bitmaps into either grayscale, red-scale, blue-scale or inverted coloring.
 ##How to use this app:
 In the terminal type *node index.js image conversion*
 ##image:
