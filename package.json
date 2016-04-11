@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kbeame/pracBit#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "event-emitter": "^0.3.4",
     "mocha": "^2.4.5"
   }
 }
