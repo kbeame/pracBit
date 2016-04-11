@@ -1,8 +1,12 @@
 # pracBit
+# Katherin Beame
+# Bitmap transformation assigment
+
 ##How to use this app:
 In the terminal type *node index.js image conversion*
 ##image:
-In this instance image should be the direct file name that you wish to convert from
+In this instance image should be the direct file name that you wish to convert from.
+ex/ palette-bitmap.bmp
 ##conversion
 Should be the type of bitmap transformation that you wish to perform.
 What to type:
